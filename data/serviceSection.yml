@@ -1,0 +1,36 @@
+---
+enable: true
+topTitle: 
+title: Pakalpojumi un cenrādis
+subtitle: 
+service:
+- title: Sertificēta fizioterapeita konsultācija
+  content: 60 min 45 eur
+  image: images/service/ui-ux.svg
+- title: Ārstnieciskā vingrošana
+  content: Dziļās muskuloskeltālās sistēmas trenniņš un Slinga terapija (nodarbības ilgums 60 min) 40 eur
+  image: images/service/web.svg
+- title: Ārstnieciskā vingrošana
+  content: (45 min) 25 eur, (60 min) 30 eur
+  image: images/service/creative.svg
+- title: Slinga terapija
+  content: plecu, pakauša zonai (masāžas, manuālās terapijas tehnikas) 50 min 40 eur
+  image: images/service/creative.svg
+- title: Teipošana
+  content: 15-25 eur 1 minute
+  image: images/service/creative.svg
+- title: Aromdiagnostika
+  content: 50 eur 2 stundas
+  image: images/service/creative.svg
+# - title: Branding
+#   content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+#     tempor invidunt ut labore et dolore magna aliquyam erat.
+#   image: images/service/branding.svg
+# - title: UI/UX Design
+#   content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+#     tempor invidunt ut labore et dolore magna aliquyam erat.
+#   image: images/service/ui-ux.svg
+# - title: Web Development
+#   content: Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
+#     tempor invidunt ut labore et dolore magna aliquyam erat.
+#   image: images/service/web.svg

@@ -1,0 +1,39 @@
+---
+enable: true
+topTitle: 
+title: Pakalpojumi
+subtitle: 
+subsubtitle: 
+
+tab1Name: Fizioterapija
+tab2Name: Citi pakalpojumi
+tab1Target: education
+tab2Target: experience
+
+education:
+  - title: Konsultācija
+    content: Ietver sevī funkcionālo izvērtēšanu, funkcionālās diagnozes uzstādīšanu, ārstēšanas plāna sastādīšanu, ārtsēšanas metožu piemeklēšanu
+    time: 50 eur - 60 min 
+  - title: Ārstnieciskā vingrošana individuāli
+    content: Vispārattīstoši, simetrizējoši vingrojumi, kuri attīsta ķermeni fizioloģiski un biomehāniski korekti, palielinot fizisko izturību, spēku un lokanību
+    time: 35 eur - 50 min
+  - title: Dziļo muskuļu trenniņš
+    content: Izmantojot specifisku neiromuskulāru stimulāciju, tiek aktivizēts ķermeniskais centrs. Uzlabojas stāja un tās noturība, uzlabojas muskulatūras balanss un ķermeņa locītavu stabilizācijas funkcija
+    time: 40 eur - 60 min 
+  - title: Slinga terapija
+    content: Elastīgo saišu terapija plecu, pakauša zonai ar mērķi uzlabot asinsriti, kustīgumu locītavās, spriedzes muskuļu relaksāciju un pašsajūtas uzlabošanu
+    time: 40 eur - 50 min 
+  - title: Jaunajām māmiņām
+    content: Jaunās māmiņas ir īpaši gaidītas un aicinātas parūpēties par savu ķermeni fizioloģiskā un atbalstošā ceļā. Cienot ķermeņa resursu un prioritātes, tiek aktivizēta dziļās muskulatūras sistēma, kas nodrošina sava ķermeņa sajušanu, spēku un izturību. Papildus metode - Slinga terapija - ir kā atbalstošs pieskāriens sievietes jaunajā  - māmiņas lomā
+    time: 40 eur - 60 min
+  - title: Teipošana 
+    content: 
+    time: 15-25 eur
+
+experience:
+  - title: Aromdiagnostika
+    content: Ēteriskās eļļas ir dabas spēks, kuru iepazīstot aromdiagnostikas testa laikā, varam izmantot, lai labāk sadzirdētu sevi un savu zemapziņu, kā arī lai atbalstītu sevi dažādos dzīves posmos 
+    time: 60 eur - 2 stundas
+  
+  
+  

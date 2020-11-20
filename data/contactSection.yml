@@ -1,0 +1,13 @@
+---
+enable: true
+title: Kontakti
+service:
+- title: Fizioterāpija
+  content: Izvingrosim
+  image: images/service/ui-ux.svg
+- title: Aromdiagnostika
+  content: Sasmaržosim
+  image: images/service/web.svg
+- title: Smadzeņu skalošana
+  content: Apgaismosim
+  image: images/service/creative.svg

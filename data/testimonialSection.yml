@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: 
+title: Atsauksmes
+
+testimonial:
+  - name: Janis P.
+    comment: Viskrutaka un visskaistaka.
+    time: Jan 20, 2020
+    star: 5
+  - name: Zane S/V.
+    comment: Super modele ar siltam rokam.
+    time: Jan 16, 2020
+    star: 4
+  - name: Valsts prezidents
+    comment: Izmaseja tā ka jauno likumu pieņemam.
+    time: Mar 08, 2020
+    star: 5
