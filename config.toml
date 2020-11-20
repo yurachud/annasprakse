@@ -1,4 +1,6 @@
-baseURL = "http://yurachud.github.io/"
+baseURL = "https://yurachud.github.io/"
+relativeURLs = true
+uglyURLs = true
 languageCode = " lv-lv"
 paginate = 6
 theme = "portio"
