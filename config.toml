@@ -4,7 +4,7 @@ uglyURLs = true
 languageCode = " lv-lv"
 paginate = 6
 theme = "portio"
-title = "Annas prakse"
+title = "Annas un Līgas prakse"
   # Main Menu
   [[menu.main]]
     name = "Atpakaļ"
@@ -26,14 +26,16 @@ title = "Annas prakse"
   #   name = "Resume"
   #   url = "#resume"
   #   weight = 5
-  # [[menu.main]]
-  #   name = "Blog"
-  #   url = "#blog"
-  #   weight = 6
+  
+  [[menu.main]]
+    name = "Par mums"
+    url = "#blog"
+    weight = 4
   [[menu.main]]
     name = "Kontakti"
     url = "#contact"
-    weight = 4
+    weight = 5
+    
 
   # Sitemap Menu
   [[menu.sitemap]]
@@ -65,8 +67,10 @@ title = "Annas prakse"
   [params.address]
     address = "Rīga, Vienības gatve 109, Biznesa centrs Unity, 3. stāvs, kabinets 3.8."
     email = "anna.cudnovska@gmail.com"
+    email2 = "liga.latkovska@inbox.lv"
     openingHours = "Darba dienās no 9.00 līdz 17.00"
     phone = "+(371) 2 789 42 92"
+    phone2 = "+(371) 2 039 39 31"
   [params.map]
     APIkey = "YOUR GOOGLE MAP API"
     latitude = "23.7783741"

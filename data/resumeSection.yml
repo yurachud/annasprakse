@@ -6,7 +6,7 @@ subtitle:
 subsubtitle: 
 
 tab1Name: Fizioterapija
-tab2Name: Citi pakalpojumi
+tab2Name: Osteopātija
 tab1Target: education
 tab2Target: experience
 
@@ -31,9 +31,9 @@ education:
     time: 15-25 eur
 
 experience:
-  - title: Aromdiagnostika
-    content: Ēteriskās eļļas ir dabas spēks, kuru iepazīstot aromdiagnostikas testa laikā, varam izmantot, lai labāk sadzirdētu sevi un savu zemapziņu, kā arī lai atbalstītu sevi dažādos dzīves posmos 
-    time: 60 eur - 2 stundas
+  - title: Osteopātija
+    content: Osteopātija ir medicīniskās diagnostikas un ārstēšanas pieeja, kuras pamatā ir filozofija par cilvēka ķermeņa un tā funkcijas vienotību, kā arī ķermeņa spēju pašatjaunoties
+    time: 70 eur - 50 min
   
   
   

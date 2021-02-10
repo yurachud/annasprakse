@@ -1,7 +1,8 @@
 ---
-title: "Designer Conference at Florida 2020"
-date: 2020-07-13T13:06:26+06:00
-featureImage: images/allpost/allPost-2.jpg
+title: "Līga Latkovska"
+profession: Fizioterapeite ar osteopātijas kvalifikāciju
+# date: 2020-07-13T13:06:26+06:00
+featureImage: images/allpost/liga2.jpg
 postImage: images/single-blog/feature-image.jpg
 ---
 
